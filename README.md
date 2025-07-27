@@ -18,22 +18,22 @@
 ---
 
 ## 🏆 Highlights & Achievements
-
 - 🥈 2nd Place – **Design Quest (ROBOGLITZ '25)**  
   *CAD modeling and 3D assembly skills in SolidWorks*
-
 - 🥈 2nd Place – **Robo-Rush (Mini-Bot Maze Solver)**  
   *Designed and built autonomous micro-robots with my team*
-
-- 🧠 Attended Workshops at IIT Madras and PSG Tech:
+- 🤖 Participated in:
+  - **Smart India Hackathon (SIH) 2024**
+  - **MATLAB Mini-Drone Hackathon**
+  - **FESTO PNEUMO Pneumatic Circuit Contest**
+- 🧠 Attended Workshops at **IIT Madras** and **PSG Tech**:
   - Safe & Responsible AI  
   - Introduction to Reinforcement Learning  
   - Development & Management of Software  
   - Lean Manufacturing  
   - Generative AI
-
-- 📜 Cleared **Hindi Language Certifications** (Parichaya to Rastrabhasha) with First-Class Distinction  
-- 📈 **JEE Percentile**: 92.226 – *Top 8% in India*  
+- 📜 Cleared **Hindi Language Certifications** *(Parichaya to Rastrabhasha)* with **First-Class Distinction**
+- 📈 **JEE Percentile**: 92.226 – *Top 8% in India*
 - 🧮 **Abacus Champion** – Recognized at *State, National, Asian, and World Levels*
 
 ---
