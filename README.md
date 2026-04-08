@@ -26,6 +26,8 @@
   - **Smart India Hackathon (SIH) 2024**
   - **MATLAB Mini-Drone Hackathon**
   - **FESTO PNEUMO Pneumatic Circuit Contest**
+  - **Caterpillar Tech Challenge 2026**
+  - **TN Skills - Robot System Integration**
 - 🧠 Attended Workshops at **IIT Madras** and **PSG Tech**:
   - Safe & Responsible AI  
   - Introduction to Reinforcement Learning  
