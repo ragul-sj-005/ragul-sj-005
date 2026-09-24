@@ -9,10 +9,9 @@
 ## 🧑‍💻 About Me
 
 - Currently pursuing B.E. in Robotics and Automation Engineering at PSG College of Technology.
-- Exploring Robotics, Data Science, CAD Modeling, and Embedded Systems.
+- Exploring Robotics, CAD Modeling, and Embedded Systems.
 - Supplementing learning via:
   - GUVI (IITM Research Park) Programming Courses
-  - BS Data Science Program from IIT Madras
 - I love building tech-driven solutions that solve real-world problems through an engineering mindset, creativity, and collaboration.
 
 ---
